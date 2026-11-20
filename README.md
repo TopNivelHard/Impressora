@@ -1,1 +1,1 @@
-# Impressora
+# Impressora Térmica Elgin
